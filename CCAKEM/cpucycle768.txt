@@ -1,0 +1,34 @@
+Number of experiments (NTESTS): 100000
+
+gen_a: 
+median: 24230 cycles/ticks
+average: 24408 cycles/ticks
+
+indcpa_keypair: 
+median: 91992 cycles/ticks
+average: 92653 cycles/ticks
+
+indcpa_enc: 
+median: 109246 cycles/ticks
+average: 110001 cycles/ticks
+
+indcpa_dec: 
+median: 19818 cycles/ticks
+average: 19952 cycles/ticks
+
+ccakem_keypair: 
+median: 103920 cycles/ticks
+average: 104439 cycles/ticks
+
+ccakem_encaps_derand: 
+median: 119618 cycles/ticks
+average: 120442 cycles/ticks
+
+ccakem_encaps: 
+median: 122236 cycles/ticks
+average: 123582 cycles/ticks
+
+ccakem_decaps: 
+median: 142688 cycles/ticks
+average: 143579 cycles/ticks
+
